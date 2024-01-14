@@ -1,5 +1,4 @@
 public class Main {
-    //No se perquè he de tornar a especificar a arraylist que serà de strings
     static String[] primers = {"u", "dos", "tres", "quatre", "cinc", "sis", "set", "vuit", "nou"};
 
     //Aquesta següent és l'única que té 10 elements
